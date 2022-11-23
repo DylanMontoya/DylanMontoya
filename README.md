@@ -1,28 +1,32 @@
 ### Hello there! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
-                                                                                                                             
+
+***********************************
+
 ## About me
-I'm Biomedical Engineer...
+Biomedical engineer with more than a year of experience in the computational analysis sector, I have knowledge in Natural Language Processing, Machine Learning and Deep Learning. In recent months I have dedicated myself to the creation of NER models and personal projects.
 
 
-## Technologies :fire:
-- Data Science with **Python**.
+## Technologies
 - Python.
-- Natural Language Processing
-- Microsoft Azure
-- Machine Learning
-- Deep Learning
+- Microsoft Azure.
+- Natural Language Processing.
+- ETL and ELT
+- Machine Learning.
+- Deep Learning.
+- Linux.
 
 <br />
 
-## Languages and Tools
-**Data scientist, data engineer:**
+## Tools & Skills
+
+**Data Engineer - Data Scientist:**
 <br />
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
 
-**Backend developer:**
+**Backend Developer:**
 <br />
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>
@@ -40,7 +44,7 @@ I'm Biomedical Engineer...
 
 <br />
 
-## Contact me
+## Connect with me
 
 <a href="https://www.linkedin.com/in/dylan-montoya/">  
   <img align="left" alt="Dylan's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -55,6 +59,7 @@ I'm Biomedical Engineer...
 </a>
 
 <br />
-<br />
+
+***********************************
 
 ⭐️ From [DylanMontoya](https://github.com/DylanMontoya)
