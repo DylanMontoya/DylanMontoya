@@ -13,6 +13,7 @@ Biomedical engineer with more than a year of experience in the computational ana
 - ETL and ELT
 - Machine Learning.
 - Deep Learning.
+- APIs
 - Linux.
 
 <br />
@@ -25,6 +26,9 @@ Biomedical engineer with more than a year of experience in the computational ana
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png"></code>
+<code><img height="20" src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Power-BI.png"></code>
+
 
 **Backend Developer:**
 <br />
@@ -40,7 +44,6 @@ Biomedical engineer with more than a year of experience in the computational ana
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png"></code>
 
 <br />
 
