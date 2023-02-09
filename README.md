@@ -6,19 +6,21 @@
 Biomedical engineer with more than a year of experience in the computational analysis sector, I have knowledge in Natural Language Processing, Machine Learning and Deep Learning. In recent months I have dedicated myself to the creation of NER models and personal projects.
 
 
-## Technologies
-- Python.
-- Microsoft Azure.
-- Natural Language Processing.
-- ETL and ELT
-- Machine Learning.
-- Deep Learning.
-- APIs
-- Linux.
+## Skills
+- Programming languages: Python (Advanced).
+- Database engine: MySQL, PostgreSQL, MongoDB.
+- Cloud computing: Azure.
+- Others: ETL/ELT, Power BI, APIs, Django, Git.
+- Languages: Spanish (Native), English (B1).
+- Data preparation (Pandas, Numpy, re).
+- Data visualization (Plotly, Seaborn).
+- Mathematical modeling and optimization.
+- NLP (NLTK, spaCy, Transformers).
+- Machine Learning y Deep Learning.
 
 <br />
 
-## Tools & Skills
+## Tools
 
 **Data Engineer - Data Scientist:**
 <br />
