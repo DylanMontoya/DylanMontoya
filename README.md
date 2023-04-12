@@ -4,7 +4,7 @@
 
 ## About me
 Biomedical engineer with more than a year of experience in the computational analysis sector, I have knowledge in Natural Language Processing & Machine Learning. In recent months I have dedicated myself to the creation of NER models and personal projects.
-I'm a masters student in Automation & Control. I´m developing Deep Learning models for biomedical text with NERs & negation detetion.
+I'm a masters student in Automation & Control. I'm developing Deep Learning models for biomedical text with NER & negation detetion.
 
 
 ## Skills
