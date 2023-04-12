@@ -12,14 +12,15 @@ I'm a masters student in Automation & Control. I´m developing Deep Learning mod
 - Programming languages: Python (Advanced).
 - Database engine: MySQL, PostgreSQL, MongoDB.
 - Cloud computing: Azure.
-- Others: ETL/ELT, Power BI, APIs, Django, Git.
-- Languages: Spanish (Native), English (B1).
+- Others: Power BI, Django, Git.
 
-- Data preparation (Pandas, Numpy, re).
-- Data visualization (Plotly, Seaborn).
-- Mathematical modeling and optimization.
+<br />
+
+- Data preparation (ETL, Airflow, APIs).
 - NLP (NLTK, spaCy, Transformers).
 - Machine Learning y Deep Learning.
+- Mathematical modeling and optimization.
+
 
 <br />
 
