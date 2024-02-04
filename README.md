@@ -3,9 +3,7 @@
 ***********************************
 
 ## About me
-I have over two years of experience in the field of applied sciences, computational modeling, and data engineering. I have worked extensively with Natural Language Processing and Artificial Intelligence models for automatic information extraction. 
-Additionally, I have strengthened my skills through personal projects related to data management and processing. My approach is based on knowledge exchange and mutual learning to drive the development of solutions.
-
+Motivated Data Scientist passionate about harnessing the power of data to impact society and enhance user experiences. Proficient in SQL, ETL, Python, Git, and cloud platforms such as GCP and Azure. Committed to continuous learning and obtaining cloud certifications, including MLOps, to ensure efficient implementation and maintenance of machine learning models in production environments. Strong analytical thinker and adept problem solver, with expertise in data preprocessing, feature engineering, and algorithm design. Effective communicator, both technically and interpersonally. Dedicated to delivering impactful solutions that drive innovation.
 
 ## Skills
 
